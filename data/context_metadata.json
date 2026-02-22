@@ -1,0 +1,31 @@
+{
+  "candidate_name": "Josh Kragness",
+  "current_title": "Senior Director of Data Strategy & Analysis",
+  "years_experience": 24,
+  "location": "Leesburg, VA",
+  "email": "kragnessjosh@gmail.com",
+  "phone": "703.674.8829",
+  "linkedin": "linkedin.com/in/joshkragness",
+  "summary": "Pioneering BI Modernization & Analytics Leader with 24+ years driving data transformation, cloud platform adoption, and enterprise analytics at scale. Visionary architect specializing in AI enablement, data modernization, and stakeholder engagement.",
+  "headline": "AI & Analytics Enablement → Data Culture & User Adoption → Data Modernization Vision & Execution",
+  "key_strengths": [
+    "Cloud Data Platform Migration (Snowflake, AWS)",
+    "AI/ML Enablement and NLP Integration",
+    "Enterprise Data Governance & Security",
+    "Change Management & Stakeholder Engagement",
+    "Business Intelligence Modernization",
+    "Predictive Modeling & Forecasting",
+    "Team Leadership (14 direct reports)"
+  ],
+  "notable_achievements": [
+    "Orchestrated enterprise Snowflake migration enabling AI/LLM adoption",
+    "Pioneered Tableau standardization reaching 100+ users",
+    "Won executive buy-in for cloud modernization in risk-averse environment",
+    "Established data governance framework classifying 1000+ tables",
+    "Evangelized platform adoption to 70+ stakeholders",
+    "Built predictive models shaping marketing strategy and revenue streams"
+  ],
+  "leadership_scope": "Manages team of 14 data engineers, data scientists, and business analysts. Reports to COO and VP-level leadership.",
+  "industries": ["Technology", "Internet Infrastructure", "Media", "Food Services"],
+  "career_trajectory": "24-year progression from Solutions Engineer to Senior Director roles, demonstrating consistent advancement in data analytics and business intelligence leadership"
+}

@@ -1,0 +1,13 @@
+achievement_id,experience_id,achievement_text,metric_type,metric_value,unit,annualized_value,skills_demonstrated,business_outcome
+ACH001,EXP001,Orchestrated cloud data modernization deploying Snowflake analytics platform,Platform Migration,1,major platform,,Snowflake Cloud Data Platform Architecture,Platform Modernization
+ACH002,EXP001,Won executive buy-in within risk-averse environment for cloud migration,Stakeholder Engagement,1,executive approval,,Change Management Stakeholder Management,Risk Mitigation
+ACH003,EXP001,Built cross-functional delivery team integrating external partners,Team Building,1,platform delivery,,Team Leadership Cross-functional Collaboration,Delivery Excellence
+ACH004,EXP001,Implemented VPC AWS Private Link and achieved full InfoSec sign-off,Security Compliance,1,security approval,,Cloud Security Data Governance,Compliance
+ACH005,EXP001,Facilitated rapid AI enablement introducing NLP-to-SQL via Cortex Analyst,AI Integration,1,AI capability,,AI/ML Snowflake Cortex NLP,Innovation
+ACH006,EXP001,Established enterprise data governance classifying thousands of tables,Data Governance,1000,tables classified,,Data Governance Metadata Management,Governance Framework
+ACH007,EXP001,Evangelized Snowflake adoption through showcase for 70+ stakeholders,User Adoption,70,stakeholders engaged,,Change Management Platform Evangelism,Adoption
+ACH008,EXP003,Pioneered Tableau adoption growing usage to 100+ analysts and business leaders,Platform Adoption,100,active users,,Tableau Business Intelligence,User Enablement
+ACH009,EXP003,Strengthened revenue forecasting via predictive model for channel marketing rebate program,Revenue Impact,1,predictive model,,Predictive Modeling Forecasting,Revenue Optimization
+ACH010,EXP003,Elevated data security posture through BI infrastructure migration,Security Enhancement,1,infrastructure migration,,Data Security Infrastructure Migration,Security
+ACH011,EXP003,Redesigned executive dashboards and reporting ecosystems for strategic KPIs,Dashboard Development,1,executive dashboard,,Dashboard Design KPI Development,Executive Visibility
+ACH012,EXP003,Expanded data science integration incorporating R-based statistical modeling into Hadoop clusters,Data Science Integration,1,platform integration,,R Statistical Modeling Hadoop Big Data,Advanced Analytics

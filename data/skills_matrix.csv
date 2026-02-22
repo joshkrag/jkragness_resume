@@ -1,0 +1,23 @@
+skill_name,category,proficiency,years_experience,first_used,last_used,sub_skills
+Snowflake,Cloud Data Platform,Expert,3,2022,present,Cortex Analyst NLP-to-SQL Data Governance Cost Management
+Power BI,Visualization,Advanced,8,2017,present,Dashboard Development Report Design
+Tableau,Visualization,Expert,13,2012,present,Dashboard Design Server Administration User Enablement
+SQL,Database,Expert,24,2001,present,Query Optimization Data Modeling Database Design
+Data Engineering,Data,Expert,17,2008,present,ETL Data Pipelines Data Architecture
+Data Warehousing,Data,Expert,17,2008,present,Dimensional Modeling Data Architecture Legacy Migration
+Cloud Platforms,Infrastructure,Advanced,3,2022,present,AWS VPC Private Link Security Architecture
+Data Governance,Governance,Expert,3,2022,present,Data Classification Tagging Schema Access Controls
+AI & Machine Learning,AI/ML,Advanced,5,2020,present,NLP Predictive Modeling Statistical Analysis
+Data Modeling,Data,Expert,20,2005,present,Dimensional Modeling Star Schema Data Architecture
+Forecasting,Analytics,Expert,15,2010,present,Predictive Modeling Statistical Forecasting Time Series
+Business Intelligence,Analytics,Expert,17,2008,present,BI Strategy Dashboard Development KPI Design
+Change Management,Leadership,Expert,10,2015,present,Stakeholder Engagement User Adoption Platform Evangelism
+SharePoint,Collaboration,Intermediate,10,2015,present,Document Management Collaboration
+Jira,Project Management,Advanced,8,2017,present,Agile Scrum Sprint Planning
+Excel,Productivity,Expert,24,2001,present,Financial Modeling Complex Formulas Pivot Tables
+SAS,Analytics,Advanced,5,2001,2006,Statistical Analysis Data Mining
+Oracle OBIEE,Business Intelligence,Advanced,8,2008,2016,Report Development Dashboard Design
+TOAD for Oracle,Database,Advanced,10,2008,2018,Database Administration Query Development
+R Programming,Statistical Computing,Advanced,8,2017,present,Statistical Modeling Machine Learning
+Hadoop,Big Data,Intermediate,6,2017,2023,Cluster Management Data Processing
+Splunk,Monitoring,Intermediate,3,2022,present,Log Analysis Monitoring Alerts

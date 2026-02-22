@@ -1,0 +1,11 @@
+experience_id,company,title,start_date,end_date,location,employment_type,industry,seniority_level,is_current
+EXP001,VeriSign,Senior Director of Data Strategy & Analysis,2025-01,present,Leesburg VA,Full-time,Technology/Internet Infrastructure,Senior Executive,TRUE
+EXP002,VeriSign,Senior Director Strategy & Analysis,2021-01,2025-01,Leesburg VA,Full-time,Technology/Internet Infrastructure,Senior Executive,FALSE
+EXP003,VeriSign,Senior Director Strategy & Analytics,2016-01,2021-01,Leesburg VA,Full-time,Technology/Internet Infrastructure,Senior Executive,FALSE
+EXP004,VeriSign,Director Statistics & Analysis,2013-01,2016-01,Leesburg VA,Full-time,Technology/Internet Infrastructure,Director,FALSE
+EXP005,VeriSign,Senior Manager Business Intelligence & Analysis,2011-01,2013-01,Leesburg VA,Full-time,Technology/Internet Infrastructure,Mid-Senior,FALSE
+EXP006,VeriSign,Manager Business Intelligence & Analysis,2008-01,2011-01,Leesburg VA,Full-time,Technology/Internet Infrastructure,Mid,FALSE
+EXP007,Gate Gourmet Inc,Manager Financial Planning & Analysis,2007-01,2008-01,Reston VA,Full-time,Food Services,Mid,FALSE
+EXP008,AOL LLC,Manager International Business Planning & Strategy,2005-01,2007-01,Dulles VA,Full-time,Technology/Media,Mid,FALSE
+EXP009,AOL LLC,European Research Manager/Senior Metrics Reporting Analyst,2003-01,2005-01,Dulles VA,Full-time,Technology/Media,Mid,FALSE
+EXP010,SAS Institute,Solutions Engineer,2001-01,2003-01,Washington DC,Full-time,Technology/Software,Entry,FALSE
